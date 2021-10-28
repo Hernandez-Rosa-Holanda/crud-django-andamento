@@ -5,8 +5,7 @@
   <p>Exercitei minha compreensão sobre rotas, utilizei o SQLITE como banco de dados utilizando Delete, Create, UpDate </br>
   </p>
 <h2>Layout</h2>
-  <p>![CRUD](https://user-images.githubusercontent.com/82759865/139168835-5350d7a3-9888-43d5-a3b7-99c77f1f3fe0.gif)
-
+  <p>
     <img src="https://user-images.githubusercontent.com/82759865/139168835-5350d7a3-9888-43d5-a3b7-99c77f1f3fe0.gif"/>
   </p>
 <h2>Tecnologias utilizadas</h2>
