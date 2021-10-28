@@ -2,7 +2,8 @@
   <h1>Sobre o Projeto</h1>
 
   <h3>Crud feito com DJANGO</h3> 
-  <p>Exercitei minha compreensão sobre rotas, utilizei o SQLITE como banco de dados utilizando Delete, Create, UpDate </br>
+  <p>Ampliando minha compreensão sobre rotas, utilizei o SQLITE como banco de dados utilizando Delete, Create, UpDate.</br>
+  Projeto em andamento
   </p>
 <h2>Layout</h2>
   <p>
