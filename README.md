@@ -7,7 +7,9 @@
   </p>
 <h2>Layout</h2>
   <p>
-    <img src="https://user-images.githubusercontent.com/82759865/139168835-5350d7a3-9888-43d5-a3b7-99c77f1f3fe0.gif"/>
+  ![Document-Google-Chrome-2021-10-27-22-16-19_Trim](https://user-images.githubusercontent.com/82759865/139169881-46d39303-55fc-402c-995a-9b5aae78e21a.gif)
+
+    <img src="https://user-images.githubusercontent.com/82759865/139169881-46d39303-55fc-402c-995a-9b5aae78e21a.gif"/>
   </p>
 <h2>Tecnologias utilizadas</h2>
 
